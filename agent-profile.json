@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "name": "asamashisa-web Technocore Agent Starter",
+  "description": "Dependency-free macOS helper for Keychain-protected Ed25519 Technocore identities and locally verified signed check-ins.",
+  "did": "did:key:z6MkqbYLYf7rqcTuMmxt8atQsFA1YfqP9gcFfsiUxhs4smnV",
+  "xAccountUrl": "https://x.com/IAHSA110158",
+  "repository": "https://github.com/asamashisa-web/technocore-agent-starter",
+  "disclaimer": "This is an unofficial community tool. It does not guarantee FLOP airdrop eligibility or allocation."
+}

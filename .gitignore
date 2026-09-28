@@ -1,0 +1,8 @@
+.secrets/
+.state/
+__pycache__/
+*.pyc
+.venv/
+.coverage
+htmlcov/
+.DS_Store
